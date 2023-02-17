@@ -1,7 +1,7 @@
 # Soleil
 
 
-![Icone de mercure](Soleil.png)
+![Icone de mercure](soleil.png)
 
 Icone créée par [monkik](https://www.flaticon.com/authors/monkik) trouvée sur [flaticon](https://www.flaticon.com/).
 
